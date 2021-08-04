@@ -5,4 +5,4 @@
 - Методология БЭМ
 - CSS Grid, CSS Flexbox
 
-![Smartphone](https://github.com/Bondvik/catalog-smartphone/blob/main/pic/catalog.gif)
+![Smartphone](https://github.com/Bondvik/catalog-smartphone/blob/main/pic/catalog-smart.gif)
